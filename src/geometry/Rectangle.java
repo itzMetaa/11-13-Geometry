@@ -1,7 +1,7 @@
 
 package geometry;
 
-public abstract class Rectangle {
+interface Rectangle {
     public abstract double getA();
     public abstract double getB();
     

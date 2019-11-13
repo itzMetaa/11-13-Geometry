@@ -2,7 +2,7 @@
 package geometry;
 
 
-public class GeneralRhombus extends Rhombus{
+public class GeneralRhombus implements Rhombus{
     public double a;
     public double alfa;
 

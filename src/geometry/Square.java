@@ -2,7 +2,7 @@
 package geometry;
 
 
-public class Square extends Rectangle, Rhombus {
+public class Square implements Rectangle, Rhombus {
     private double a;
 
     public Square(double a) {
